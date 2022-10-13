@@ -3,6 +3,7 @@ package fi.tuni.prog3.sisu;
 
 abstract class Person {
     private String name;
+    private String age2;
     
     public Person(String name) {
         this.name = name;
